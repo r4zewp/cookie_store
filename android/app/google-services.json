@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173593990939",
+    "project_id": "cookie-test-fa417",
+    "storage_bucket": "cookie-test-fa417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173593990939:android:f8c0ba748dc51232a265be",
+        "android_client_info": {
+          "package_name": "razewp.cookies_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173593990939-to2a8l0ajn1227lfsnnrpikq4se6368n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOZYz_387rwjHII7IyGqymOdDLqrMMHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173593990939-to2a8l0ajn1227lfsnnrpikq4se6368n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
